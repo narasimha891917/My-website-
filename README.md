@@ -18,7 +18,7 @@
        <div align="center">
         <h1 STYLE="Color:red;">NTR BIOGRAPHY</h1>
         <iframe src="https://en.m.wikipedia.org/wiki/N._T._Rama_Rao_Jr." width="400" height="400"></iframe><br><hr>
-        <iframe src="https://youtu.be/33jMQg_4iLY?si=xvvlWIRiGmLJqH_F" width="400" height="400"></iframe><br><hr>
+        <iframe src="https://youtu.be/g44VQxMcFH4?si=Q8WQDBUJRysKg-3S" width="400" height="400"></iframe><br><hr>
        <a href="2.pdf"download> Download full biography</a></div><br><hr>
         
         
